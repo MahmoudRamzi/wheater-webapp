@@ -1,0 +1,38 @@
+/* RESPONSIVE CSS FILE */
+ 
+	#app {
+	max-width: 75%;
+	margin: 20px auto;}
+	.holder {
+	padding: 1%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 22px;
+	line-height: 40px;}
+	label {
+	float: left;
+	width: 90%;
+	text-align: center;
+	font-family: 'Ranga', cursive;
+	font-size: 18px;
+	line-height: 30px;}
+	.holder #zip {
+	background-color: #FFCB83;
+	width: 70%;
+	border-radius: 5px;
+    }
+	.holder #generate {
+	background-color: #ffa400;
+	width: 20%;
+	border-radius: 5px;
+	cursor: pointer;
+    overflow: hidden;
+
+font-size: 1wm;
+}
+	.holder #feelings{
+	line-height: 20px;
+	font-size: 1 5px;
+	background-color: #FFCB83;
+	width: 90%;
+	border-radius: 10px;
+    }
